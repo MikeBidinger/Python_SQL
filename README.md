@@ -2,8 +2,8 @@
 
 This repository contains the following functionalities:
 
--   Convert a CSV file into a SQL file
--   Convert a SQL file into CSV files
+-   [Convert a CSV file into a SQL file](#convert-csv-to-sql)
+-   [Convert a SQL file into CSV files](#convert-sql-to-csv)
 
 ## Convert CSV to SQL
 
